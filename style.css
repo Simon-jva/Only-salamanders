@@ -1,0 +1,162 @@
+@font-face {
+    font-family: "Comic Jungle";
+    src: url("/fonts/ComicJungle-j9R3v.ttf");
+  }
+  @font-face {
+    font-family: "Comic Jungle Extrude";
+    src: url("/fonts/ComicJungleExtrude-G36Ya.ttf");
+  }
+h1 {
+    position: fixed;
+    left: 500px;
+    top: 100px;
+    width: 730px;
+    height: 200px;
+    background-color: rgba(236, 202, 139, 0.734);
+    border-radius: 50px;
+  }
+  h2 {
+    position: fixed;
+    left: 520px;
+    top: 100px;
+    font-size: 80px;
+    color: rgb(98, 79, 55);
+    font-family: "Comic Jungle Extrude", sans-serif;
+  }
+  h3 {
+    position: fixed;
+    left: 150px;
+    top: 100px;
+    font-size: 50px;
+    color: rgb(98, 79, 55);
+    font-family: "Comic Jungle Extrude", sans-serif;
+
+  }
+  h4 {
+    position: fixed;
+    left: 1075px;
+    top: 125px;
+    font-size: 50px;
+    color: rgb(98, 79, 55);
+    font-family: "Comic Jungle Extrude", sans-serif;
+
+  }
+  h5 {
+    position: fixed;
+    left:230px;
+    top: 25px;
+    font-size: 50px;
+    color: rgb(98, 79, 55);
+    font-family: "Comic Jungle Extrude", sans-serif;
+  }
+  h6 {
+    position: fixed;
+    left: 1185px;
+    top: 30px;
+    font-size: 50px;
+    color: rgb(98, 79, 55);
+    font-family: "Comic Jungle Extrude", sans-serif;
+
+  }
+  h7 {
+    position: fixed;
+    left: 100px;
+    top: 150px;
+    font-size: 50px;
+    color: rgb(98, 79, 55);
+    font-family: "Comic Jungle Extrude", sans-serif;
+
+  }
+div1{
+    position: fixed;
+    left: 50px;
+    top: 120px;
+    width: 600px;
+    height: 500px;
+    background-color: rgba(236, 202, 139, 0.734);
+    border-radius: 50px;
+
+}
+div2{
+    position: fixed;
+    left: 1000px;
+    top: 150px;
+    width: 600px;
+    height: 500px;
+    background-color: rgba(236, 202, 139, 0.734);
+    border-radius: 50px;
+
+}
+
+div3{
+    position: fixed;
+    left: 50px;
+    top: 75px;
+    width: 600px;
+    height: 500px;
+    background-color: rgba(236, 202, 139, 0.734);
+    border-radius: 50px;
+
+}
+div4{
+    position: fixed;
+    left: 1000px;
+    top: 110px;
+    width: 600px;
+    height: 500px;
+    background-color: rgba(236, 202, 139, 0.734);
+    border-radius: 50px;
+
+}
+
+div5{
+    position: fixed;
+    left: 50px;
+    top: 130px;
+    width: 700px;
+    height: 500px;
+    background-color: rgba(236, 202, 139, 0.734);
+    border-radius: 50px;
+
+}
+
+.fire-salamander {
+    position:absolute;
+    left:  -1000px;
+    top: 250px;
+    width: 500px;
+    margin-left: 60%;
+  }
+
+  .Rough-Skinned-Newt{
+    position:absolute;
+    left: -75px;
+    top: 250px;
+    width: 600px;
+    margin-left: 60%;
+  }
+
+  .axolotl{
+    position:absolute;
+    left: -975px;
+    top: 75px;
+    width: 500px;
+    margin-left: 60%;
+  }
+
+  .mudpuppy{
+    position:absolute;
+    left: -75px;
+    top: 75px;
+    width: 600px;
+    margin-left: 60%;
+  }
+
+  .japanese-giant-salamander{
+    position:absolute;
+    left: -950px;
+    top: 125px;
+    width: 500px;
+    margin-left: 60%;
+
+  }

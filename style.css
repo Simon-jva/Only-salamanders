@@ -28,7 +28,7 @@ h1 {
     left: 150px;
     top: 100px;
     font-size: 50px;
-    color: rgb(98, 79, 55);
+    color: #c4c382;
     font-family: "Comic Jungle Extrude", sans-serif;
 
   }
@@ -37,7 +37,7 @@ h1 {
     left: 1075px;
     top: 125px;
     font-size: 50px;
-    color: rgb(98, 79, 55);
+    color: #c4c382;
     font-family: "Comic Jungle Extrude", sans-serif;
 
   }
@@ -46,7 +46,7 @@ h1 {
     left:230px;
     top: 25px;
     font-size: 50px;
-    color: rgb(98, 79, 55);
+    color: #c4c382;
     font-family: "Comic Jungle Extrude", sans-serif;
   }
   h6 {
@@ -54,7 +54,7 @@ h1 {
     left: 1185px;
     top: 30px;
     font-size: 50px;
-    color: rgb(98, 79, 55);
+    color: #c4c382;
     font-family: "Comic Jungle Extrude", sans-serif;
 
   }
@@ -63,7 +63,7 @@ h1 {
     left: 100px;
     top: 150px;
     font-size: 50px;
-    color: rgb(98, 79, 55);
+    color: #c4c382;
     font-family: "Comic Jungle Extrude", sans-serif;
 
   }
@@ -159,4 +159,10 @@ div5{
     width: 500px;
     margin-left: 60%;
 
+  }
+
+  .salamander-link {
+    display: inline-block;
+    padding: 30px;
+    cursor: pointer;
   }
